@@ -4,7 +4,7 @@
 - Django / Flask 🌶️
 - Docker / Podman 🚢
 - Climate Justice 🌍
-- Education 🧑‍🎓
+- Accessible Education 🧑‍🎓
 - Public Health 🧑‍⚕️
 
 Hi! 👋 I'm Tom. I'm passionate about using Python to improve the world.
