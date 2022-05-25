@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Tom
 
-Hi! 👋 I'm Tom and I'm 25 years old. I'm passionate about accessible education, public health, climate justice and using Python to improve the world.
+- Python 🐍
+- Django / Flask 🌶️
+- Docker / Podman 🚢
+- Climate Justice 🌍
+- Education 🧑‍🎓
+- Public Health 🧑‍⚕️
+
+Hi! 👋 I'm Tom. I'm passionate about using Python to improve the world.
 
 Since 2015 I have been developing web applications using Python on a voluntary basis, amongst others for the European Youth Parliament, where I've also been a member of the board of the German national committee between 2016 and 2018.
 
