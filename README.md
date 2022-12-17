@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Tom
 
 - Python 🐍
-- Django / FastAPI
+- Django / FastAPI ✨
 - Containers 🚢
 - Climate Justice 🌍
 - Accessible Education 🧑‍🎓
