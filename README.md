@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Tom
+### Hi there 👋
 
 - Python 🐍
 - Django / FastAPI ✨
@@ -7,4 +7,4 @@
 - Accessible Education 🧑‍🎓
 - Public Health 🧑‍⚕️
 
-Hi! 👋 I'm Tom. Let's build software together that helps people do good things. 🌍
+Hi! 👋 Let's build software together that helps people do good things. 🌍
